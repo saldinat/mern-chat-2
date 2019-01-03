@@ -1,6 +1,6 @@
 # React Chatkit Demo
 
-Chat app built with React and Chatkit. Tutorial:
+Chat app built with React and Chatkit. Tutorial: https://pusher.com/tutorials/web-notifications-react-chat
 
 ## Getting Started
 
