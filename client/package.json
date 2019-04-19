@@ -4,10 +4,14 @@
   "private": true,
   "dependencies": {
     "@pusher/chatkit-client": "^1.1.1",
+    "@types/jest": "^24.0.11",
+    "@types/react": "^16.8.10",
+    "@types/react-dom": "^16.8.3",
     "axios": "^0.18.0",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.1"
   },
   "scripts": {
@@ -24,5 +28,11 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@types/node": "^11.13.0",
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.4.1"
+  }
 }
